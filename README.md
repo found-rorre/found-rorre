@@ -1,10 +1,10 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?&customColorList=0,2,3&type=Cylinder&text=Found%20Error)
+  ![header](https://capsule-render.vercel.app/api?&color=auto&type=Cylinder&text=Found%20Error)
 </div>
 
-## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
+📋Once I've used
+<div align="center">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
