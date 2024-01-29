@@ -1,8 +1,3 @@
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?&color=auto&type=Cylinder&text=Found%20Error)
-</div>
-
 📋Once I've used
 <div align="center">
     <!-- Backend -->
