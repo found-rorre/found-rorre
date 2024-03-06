@@ -20,5 +20,5 @@
 ## ✏️ Blog For Learning - <a href="https://largeone-code-library.tistory.com">Here</a>
 [![iamge](https://github.com/found-rorre/found-rorre/assets/129933421/c64a6232-a92c-4394-b1c5-b063a1e794a9)](https://largeone-code-library.tistory.com)
 
-## 📝 Portfolio Website - <a href="https://www.notion.so/daeil-resume/Resume-493aecfbcf814c0aae68fb2ad71cda5f">Here</a>
+## 📝 Portfolio - <a href="https://www.notion.so/daeil-resume/Resume-493aecfbcf814c0aae68fb2ad71cda5f">Here</a>
 
