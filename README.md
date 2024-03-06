@@ -18,6 +18,7 @@
 <span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span><br/>
 
 ## ✏️ Blog For Learning - <a href="https://largeone-code-library.tistory.com">Here</a>
-[![image](https://user-images.githubusercontent.com/40573259/153624815-81711042-78c9-4c50-b358-55fde89ed6d7.png)](https://largeone-code-library.tistory.com)
+[![image](![갈대흑백](https://github.com/found-rorre/found-rorre/assets/129933421/fee77dac-12d2-405e-ae16-3a3b0430cf29)
+)](https://largeone-code-library.tistory.com)
 
 ## 📝 Portfolio Website - <a href="https://www.notion.so/daeil-resume/Resume-493aecfbcf814c0aae68fb2ad71cda5f">Here</a>
