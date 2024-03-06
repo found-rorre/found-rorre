@@ -1,3 +1,12 @@
+## 🙋‍♂️ Personal Info
+- Choi Deok Gyeong
+- Seoul National University (SNU)
+- Computer Science and Engineering (CSE) 16
+- hjcdg197@gmail.com
+
+
+
+
 📋Once I've used
 <div align="center">
     <!-- Backend -->
